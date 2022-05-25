@@ -48,7 +48,7 @@
     {
       "folge": "6",
       "name": "Der kleine Chinese auf dem Dreirad",
-      "faktthema": "Sampling bias am Beispiel des Freundschaftsparadox",
+      "faktthema": "Sampling Bias am Beispiel des Freundschaftsparadox",
       "beschreibung": "Der durchschnittliche Facebook Freund hat mehr Freunde als der durchschnittliche Facebook User",
       "startzeit": "00:26:57",
       "endzeit": "00:31:42",
@@ -130,7 +130,7 @@
       "folge": "15",
       "name": "Mit dieser Folge machen wir uns leider strafbar",
       "faktthema": "Die Zahl Googol",
-      "beschreibung": "Eine 1 mit einhundert 0-en. Google ist danach benannt. Ihr Firmensitz heißt Googleplex, benannt nach der Zahl googolplex. Eine 1 mit googol-vielen 0-en. +Größenvergleich",
+      "beschreibung": "Eine 1 mit einhundert 0-en. Google ist danach benannt. Ihr Firmensitz heißt Googleplex, benannt nach der Zahl Googolplex. Eine 1 mit googol-vielen 0-en. +Größenvergleich",
       "startzeit": "00:53:41",
       "endzeit": "00:58:24",
       "code": "5rpDiA30jT4gtvtpOYNqIe"
@@ -138,7 +138,7 @@
     {
       "folge": "16",
       "name": "Warum ihr Hoes seid <3",
-      "faktthema": "Fermats letzter Satz",
+      "faktthema": "Fermat's letzter Satz",
       "beschreibung": "a^n+b^n=c^n gilt nur für n=1 und n=2 (Pythagoras)",
       "startzeit": "00:53:44",
       "endzeit": "01:01:42",
@@ -166,7 +166,7 @@
       "folge": "19",
       "name": "Darf man sowas über Religion sagen?",
       "faktthema": "Warum Lobbyhoes überall die 37 sehen",
-      "beschreibung": "Möglichkeiten sind: 1. ein Glaube an eine höhere Bedeutung der Zahl. 2. Man fokussiert sich mehr auf die Zahl, als auf andere und ignoriert diese 3. Es wird gezielt nach Bestätigung gesucht.",
+      "beschreibung": "Möglichkeiten sind: 1. ein Glaube an eine höhere Bedeutung der Zahl. 2. Man fokussiert sich mehr auf die Zahl, als auf andere und ignoriert diese. 3. Es wird gezielt nach Bestätigung gesucht.",
       "startzeit": "00:49:39",
       "endzeit": "01:01:49",
       "code": "5WVSXyKyGnijOmAjisngdK"
@@ -272,7 +272,7 @@
     },
     {
       "folge": "31",
-      "name": "Send nudes Geburtsurkunde",
+      "name": "Send nudes ~~Geburtsurkunde~~",
       "faktthema": "Kein Fact",
       "beschreibung": "",
       "startzeit": "00:00:00",
@@ -282,8 +282,8 @@
     {
       "folge": "32",
       "name": "Auf der Suche nach Männlichkeit",
-      "faktthema": "die Enigma Verschlüsselungsmaschine",
-      "beschreibung": "Nachrichten wurden damit im zweiten ww verschlüsselt und es wurde eine Entschlüsselungsmaschine gebaut",
+      "faktthema": "Die Enigma Verschlüsselungsmaschine",
+      "beschreibung": "Nachrichten wurden damit im zweiten Weltkrieg verschlüsselt und es wurde eine Entschlüsselungsmaschine gebaut",
       "startzeit": "00:50:35",
       "endzeit": "01:01:14",
       "code": "56WGo0cqL2L8sUZKANFnxQ"
@@ -292,7 +292,7 @@
       "folge": "33",
       "name": "Ihr wollt Beef? Ihr bekommt Beef...",
       "faktthema": "Menschen sind kacke in Zufälligkeiten",
-      "beschreibung": "Menschen haben immer einen Bezug zu dem vermeintlich zufälligem Gedanken",
+      "beschreibung": "Menschen haben immer einen Bezug zu dem vermeintlich zufälligen Gedanken",
       "startzeit": "00:41:31",
       "endzeit": "00:53:45",
       "code": "3tbnRQ0rXaE4ScZo5WolCW"
@@ -309,7 +309,7 @@
     {
       "folge": "35",
       "name": " Diese Oma wird morgen geschubst O_o",
-      "faktthema": "Egocentric bias",
+      "faktthema": "Egocentric Bias",
       "beschreibung": "Dinge, die man selbst tut, überschätzt man mehr als Ursachen von Dingen",
       "startzeit": "00:52:22",
       "endzeit": "01:11:34",
@@ -354,7 +354,7 @@
     {
       "folge": "40",
       "name": "Angina Merkel ist 27 Schwanz groß",
-      "faktthema": "Wer sagt, was ein Meter ist",
+      "faktthema": "Wer sagt, was ein Meter ist?",
       "beschreibung": "Der Meter ist abgeleitet von Strahlung eines bestimmten Atoms. Die ist immer gleich",
       "startzeit": "00:51:22",
       "endzeit": "01:06:34",
@@ -364,7 +364,7 @@
       "folge": "41",
       "name": "Sex mit Lobbyhoes  > > > ",
       "faktthema": "Das Großvater-Paradoxon",
-      "beschreibung": "Pardoxon, das sich mit Änderungen der Zeitlinie bei Zeitreisen beschäftigt",
+      "beschreibung": "Paradoxon, das sich mit Änderungen der Zeitlinie bei Zeitreisen beschäftigt",
       "startzeit": "00:45:23",
       "endzeit": "00:58:17",
       "code": "6bYuILUJUtW0hJ1GPYT4sx"
